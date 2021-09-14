@@ -1,4 +1,6 @@
 # Swift:  Hello World!
+Basic project in Swift to start learning
+
 
 ## More Swift code
 - [Hello World!](https://github.com/erossini/Swift-HelloWorld)
